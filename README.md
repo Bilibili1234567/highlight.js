@@ -1,4 +1,16 @@
-# Highlight.js
+# Fork
+
+This is a fork of Highlight.js 7.3. The only difference is that
+it adds line numberings whenever a code section has a class "lineNumbers."
+
+In this fork, the test.html shows an Python example with lineNumbers.
+
+To build:
+
+* Python3 tools/build.py
+* Open src/test.html to view example
+
+# Highlight.js 
 
 Highlight.js highlights syntax in code examples on blogs, forums and,
 in fact, on any web page. It's very easy to use because it works
